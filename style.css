@@ -1,0 +1,232 @@
+body {
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+
+.cover-bg {
+
+    background-image: url(images/donation13.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100%;
+
+
+
+
+}
+
+.cover-text {
+    text-align: center;
+    color: white;
+
+
+    padding: 5%;
+}
+
+h1 {
+    font-size: 35px;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+h3 {
+    font-size: 18px;
+}
+
+.ancor {
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 8px;
+    border-radius: 8%;
+}
+
+.align {
+    text-align: center;
+
+}
+
+.align2 {
+    text-align: justify;
+}
+
+.color {
+    color: gray;
+}
+
+.color-orng {
+    color: tomato;
+}
+
+.half-width {
+    display: flex;
+    padding-left: 18%;
+    padding-right: 25%;
+    width: 50%;
+}
+
+.triple-width {
+    display: flex;
+
+    width: 50%;
+    padding-left: 5%;
+    padding-right: 5%;
+
+
+    margin-left: 20%;
+    margin-bottom: 5%;
+
+
+}
+
+
+.triple-width img {
+    width: 20%;
+    height: 20%;
+}
+
+.half-width1 {
+    padding: 5%;
+    background-image: linear-gradient(gray, black);
+    margin-left: 2%;
+    margin-right: 2%;
+    border-radius: 8%;
+    color: white;
+
+
+}
+
+.half-width2 {
+    padding: 5%;
+    background-image: linear-gradient(orange, tomato);
+    margin-left: 2%;
+    margin-right: 2%;
+    border-radius: 8%;
+    border: 2px solid black;
+    border-color: brown;
+    color: white;
+}
+
+.input {
+    border-top-style: none;
+    border-left-style: none;
+    border-right-style: none;
+    outline: none;
+
+}
+
+.div1 {
+    width: 50%;
+    padding-top: 3%;
+    padding-left: 2%;
+    padding-bottom: 2%;
+    padding-right: 2%;
+    margin-top: 5%;
+    margin-bottom: 8%;
+    border-radius: 7%;
+    margin-right: 2%;
+    background-color: skyblue;
+
+}
+
+.div2 {
+
+    width: 50%;
+    padding-top: 3%;
+    padding-left: 2%;
+    padding-bottom: 2%;
+    padding-right: 2%;
+    margin-top: 5%;
+    border-radius: 7%;
+    margin-left: 4%;
+    margin-right: 2%;
+    margin-bottom: 8%;
+    background-color: antiquewhite;
+
+}
+
+.div3 {
+
+    width: 50%;
+    padding-top: 3%;
+    padding-left: 2%;
+    padding-bottom: 2%;
+    padding-right: 2%;
+    margin-top: 5%;
+    border-radius: 7%;
+    margin-left: 4%;
+    margin-bottom: 8%;
+
+    background-color: burlywood;
+
+}
+
+.half-width-section3 {
+    display: flex;
+    margin-left: 15%;
+
+    width: 50%;
+}
+
+.sec3 {
+    width: 50%;
+    padding-left: 2%;
+    padding-top: 7%;
+
+    height: 80%;
+}
+
+.sec4 {
+    width: 45%;
+    padding-left: 2%;
+    padding-top: 10%;
+
+}
+
+.half-width-section3 img {
+    width: 150%;
+    height: 80%;
+    margin-left: 25%;
+}
+
+h6 {
+    font-size: 45%;
+}
+
+.subs {
+    background-image: linear-gradient(orange, tomato);
+    padding: 3px;
+    border-top-right-radius: 10% 10%;
+    border-bottom-right-radius: 10% 10%;
+    border-color: linear-gradient(orange, tomato);
+    margin-left: -2px;
+    border: 0px;
+}
+
+.flx {
+    display: flex;
+    margin-left: 22%;
+}
+
+.bg-color {
+    background-color: bisque;
+    padding: 5%;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+.foot-bg {
+    background-color: black;
+    background-size: cover;
+
+
+    margin: 0%;
+    padding-top: 1px;
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-bottom: 2%;
+}
